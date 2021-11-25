@@ -11,17 +11,15 @@ namespace DataSource
 
         private void customersBindingNavigatorSaveItem_Click(object sender, System.EventArgs e)
         {
-            this.Validate();
-            this.customersBindingSource.EndEdit();
-            this.tableAdapterManager.UpdateAll(this.northwindDataSet);
-
+            Validate();
+            customersBindingSource.EndEdit();
+            tableAdapterManager.UpdateAll(northwindDataSet);
         }
 
         private void Form2_Load(object sender, System.EventArgs e)
         {
             // TODO: esta línea de código carga datos en la tabla 'northwindDataSet.Customers' Puede moverla o quitarla según sea necesario.
-            this.customersTableAdapter.Fill(this.northwindDataSet.Customers);
-
+            customersTableAdapter.Fill(northwindDataSet.Customers);
         }
     }
 }
