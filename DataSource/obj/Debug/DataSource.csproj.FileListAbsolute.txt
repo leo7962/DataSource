@@ -1,0 +1,11 @@
+C:\Users\Ingen\RiderProjects\DataSource\DataSource\bin\Debug\DataSource.exe.config
+C:\Users\Ingen\RiderProjects\DataSource\DataSource\bin\Debug\DataSource.exe
+C:\Users\Ingen\RiderProjects\DataSource\DataSource\bin\Debug\DataSource.pdb
+C:\Users\Ingen\RiderProjects\DataSource\DataSource\obj\Debug\DataSource.csproj.AssemblyReference.cache
+C:\Users\Ingen\RiderProjects\DataSource\DataSource\obj\Debug\DataSource.Form1.resources
+C:\Users\Ingen\RiderProjects\DataSource\DataSource\obj\Debug\DataSource.Properties.Resources.resources
+C:\Users\Ingen\RiderProjects\DataSource\DataSource\obj\Debug\DataSource.csproj.GenerateResource.cache
+C:\Users\Ingen\RiderProjects\DataSource\DataSource\obj\Debug\DataSource.csproj.CoreCompileInputs.cache
+C:\Users\Ingen\RiderProjects\DataSource\DataSource\obj\Debug\DataSource.exe
+C:\Users\Ingen\RiderProjects\DataSource\DataSource\obj\Debug\DataSource.pdb
+C:\Users\Ingen\RiderProjects\DataSource\DataSource\obj\Debug\DataSource.Form2.resources
